@@ -6,6 +6,7 @@ body {
   box-sizing: border-box;
   background-image: url('https://img.freepik.com/free-photo/plain-smooth-green-wall-texture_53876-129746.jpg?size=626&ext=jpg&ga=GA1.1.2082370165.1715904000&semt=ais_user');
   background-size: cover;
+  height: 100vh;
 }
 
 /* Container for the app */
